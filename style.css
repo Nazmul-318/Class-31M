@@ -1,0 +1,123 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Work Sans', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+.portfolio-content{
+    margin-top: 150px;   
+}
+.portfolio-image img{
+    margin-left: -5px;
+}
+.about-contant{
+    margin-top: 38px;
+    margin-left: 38px;
+}
+.number-counter{
+    background-color: #8490FF;    
+}
+.b-box:hover{
+    background-color: #fff !important;
+    color: #000 !important;
+    box-shadow: 1px 1px 20px 0px rgba(0, 0, 255, 0.384);
+}
+
+.card{
+    box-shadow: 1px 1px 20px 10px #8490ff11;
+}
+.card:hover{
+    box-shadow: 1px 1px 30px 1px #8490ffc7;
+}
+.round-one {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	line-height: 4;
+	font-size: 25px;
+	margin-left: 121px;
+    margin-bottom: -10px;
+}
+.round-one:hover{
+    box-shadow: 1px 1px 20px 2px blue;
+}
+.btn-shadow {
+	box-shadow: 1px 1px 20px 10px #0d6dfd17;
+}
+.button-hov:hover{
+    background-color: blue;
+    color: #fff;
+    font-weight: bold;
+    box-shadow: 1px 1px 20px 1px blue;
+}
+.programmer{
+    margin-top: 70px;
+}
+
+.programmer-box{
+    box-shadow: 2px 2px 30px 0#ddd;
+    position: relative;
+}
+.programmer-box img{
+    width: 98px;
+    height: 98px;
+    position: absolute;
+    top: -68px;
+    left: 18px;
+}
+.programmer-box img:hover{
+    box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, 0.425);
+}
+.programmer-box .btn{
+    box-shadow: 1px 1px 10px 10px #e4e4e483;
+}
+.contact-from .w100 {
+    width: 100%;
+}
+.contact-from .w50 {
+    width: 48%
+}
+.contact-from .default-input {
+    margin-bottom: 20px;
+}
+.contact-from {
+    margin-top: 50px;
+}
+.contact-from .submit-btn {
+    margin-left: 0;
+}
+.contact-from textarea {
+    height: 200px;
+}
+.content-form p {
+    font-size: 16px;
+    color: #767676;
+    line-height: 30px;
+}
+.content-form h4 {
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 22px;
+}
+.contact-btn{
+    background-color: #17A2B8;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
+.contact-btn:hover{
+    background-color: blue;
+    color: #fff;
+}
+.contact-touch{
+    margin-left: 30px;
+    text-align: left;
+}
